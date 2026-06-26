@@ -1,0 +1,21 @@
+# Ignore all node_modules folders
+**/node_modules/
+
+# Ignore all .env files
+**/.env
+
+# Optional: Ignore other environment files
+**/.env.local
+**/.env.development.local
+**/.env.test.local
+**/.env.production.local
+
+# Logs
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+**/pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
